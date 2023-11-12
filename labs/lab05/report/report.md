@@ -83,11 +83,11 @@ header-includes:
 
 3. Открыл файл на просмотр и проверил набранный код.
 
-![Просмотр файла lab05-1.asm](image/04.png){ #fig:004 width=70%, height=70% }
+![Просмотр файла lab05-1.asm](image/03.png){ #fig:003 width=70%, height=70% }
 
 4. Получил исполняемый файл и провреил как он работает.
 
-![Запуск программы lab05-1.asm](image/05.png){ #fig:005 width=70%, height=70% }
+![Запуск программы lab05-1.asm](image/04.png){ #fig:004 width=70%, height=70% }
 
 5. Скачал файл in_out.asm. Добавил файл in_out.asm в рабочий каталог. Скопировал lab05-1.asm в lab05-2.asm.
 
